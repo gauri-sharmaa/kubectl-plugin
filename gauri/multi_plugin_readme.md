@@ -1,6 +1,4 @@
-You can find the content formatted in Markdown below. Please copy and paste this into a Google Doc.
 
-```markdown
 # kubectl-multi
 
 A lightweight kubectl plugin that allows you to query resources across multiple Kubernetes clusters simultaneously.
